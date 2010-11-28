@@ -1,0 +1,22 @@
+[Desktop Entry]
+Name=SMS Widget
+Comment=SMS Widget
+Icon=view-calendar-tasks
+
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+X-Plasma-DefaultSize=200,100
+
+X-KDE-PluginInfo-Author=Thomas Ritter
+X-KDE-PluginInfo-Email=nethad@gmx.net
+X-KDE-PluginInfo-Website=http://plasma.kde.org/
+X-KDE-PluginInfo-Category=Personal Information Management
+X-KDE-PluginInfo-Name=org.kde.smswidget
+X-KDE-PluginInfo-Version=0.0
+
+X-Plasma-RequiredExtensions=HTTP
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-ServiceTypes=Plasma/Applet
+Type=Service
