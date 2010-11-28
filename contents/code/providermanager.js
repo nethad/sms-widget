@@ -11,6 +11,7 @@ ProviderManager.prototype.add = function(provider) {
 
 ProviderManager.prototype.setDefault = function(providerName) {
     this.defaultProvider = providerName;
+    print("defaultProvider: "+providerName);
 }
 
 ProviderManager.prototype.sendMessage = function(message) {
